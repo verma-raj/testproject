@@ -1,4 +1,10 @@
 My name is Rajiv Verma .
 This is to test Git command
 Added new line
+Added in new branch
+First commit after release.
+Second commit after release
+Third commit after release ---  2.0.0
+this is for tag 3.0.0
 modifying the branch
+
